@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="resultText" type="id">resultText</item>
+    <item name="scoreInput" type="id">scoreInput</item>
+    <item name="nameInput" type="id">nameInput</item>
+    <item name="calcButton" type="id">calcButton</item>
+</resources>
